@@ -1,0 +1,14 @@
+.highlight {
+  background-color: yellow;
+  color: red;
+}
+
+.active-btn {
+  background-color: green;
+  color: white;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
